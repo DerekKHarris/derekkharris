@@ -7,7 +7,7 @@ Co-Founder and Full Stack Developer
 I'm a Full Stack Developer with over 9 years of experience, and I love solving puzzles and building cool products. I've led some pretty big technical projects and guided teams using Agile methods. Whether it’s growing and scaling companies, developing MVPs, or just driving progress in fast-paced startups, I’m your go-to person. Let's make something amazing together!
 
 * 🌍  I'm based in London
-* 🚀  I'm currently working on [Creating new ways for people to learn ASL!](http://www.signlanguage101.com)
+* 🚀  I'm currently working on [Creating new ways for people to learn ASL](http://www.signlanguage101.com)
 * 🧠  I'm learning Machine Learning through Coursera
 * 🤝  I'm open to collaborating on Consumer facing applications, SAAS
 
